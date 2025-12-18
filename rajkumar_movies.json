@@ -1,14 +1,15 @@
 {
   "metadata": {
     "totalMovies": 35,
-    "lastUpdated": "2025-12-18 12:51:24",
+    "lastUpdated": "2025-12-18 13:21:39",
     "source": "Dr. Rajkumar Filmography"
   },
   "movies": [
     {
       "id": 1,
       "title": "Bhakta Prahlada",
-      "year": "1942",
+      "titleKannada": "ಭಕ್ತ ಪ್ರಹ್ಲಾದ",
+      "year": "1983",
       "youtubeLink": "https://www.youtube.com/watch?v=BHOl61JPpt0",
       "channel": "SRS Media Vision | Kannada Full Movies",
       "videoTitle": "Bhaktha Prahlada|ಭಕ್ತ ಪ್ರಹ್ಲಾದ | Dr.Rajkumar Kannada Full Movies | Puneeth RajKumar | Mythological |",
@@ -19,6 +20,7 @@
     {
       "id": 2,
       "title": "Sri Srinivasa Kalyana",
+      "titleKannada": "ಶ್ರೀ ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣ",
       "year": "1952",
       "youtubeLink": "https://www.youtube.com/watch?v=Q6nv27BJNZ4",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -30,6 +32,7 @@
     {
       "id": 3,
       "title": "Bedara Kannappa",
+      "titleKannada": "ಬೇಡರ ಕಣ್ಣಪ್ಪ",
       "year": "1954",
       "youtubeLink": "https://www.youtube.com/watch?v=baAh4xjGMSM",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -41,6 +44,7 @@
     {
       "id": 4,
       "title": "Kalahasti Mahatyam",
+      "titleKannada": "ಕಾಳಹಸ್ತಿ ಮಹಾತ್ಯಮ್",
       "year": "1954",
       "youtubeLink": "https://www.youtube.com/watch?v=aUjuY0tvxJQ",
       "channel": "Telugu Classic Cinema",
@@ -52,6 +56,7 @@
     {
       "id": 5,
       "title": "Sodari",
+      "titleKannada": "ಸೋದರಿ",
       "year": "1955",
       "youtubeLink": "https://www.youtube.com/watch?v=8VuvAS4pFo4",
       "channel": "Kannada Classic Cinema",
@@ -63,6 +68,7 @@
     {
       "id": 6,
       "title": "Bhakta Vijaya",
+      "titleKannada": "ಭಕ್ತ ವಿಜಯ",
       "year": "1956",
       "youtubeLink": "https://www.youtube.com/watch?v=BHOl61JPpt0",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -74,6 +80,7 @@
     {
       "id": 7,
       "title": "Hari Bhakta",
+      "titleKannada": "ಹರಿ ಭಕ್ತ",
       "year": "1956",
       "youtubeLink": "https://www.youtube.com/watch?v=H0Y5WxAg0SE",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -85,6 +92,7 @@
     {
       "id": 8,
       "title": "Ohileshwara",
+      "titleKannada": "ಓಹಿಲೇಶ್ವರ",
       "year": "1956",
       "youtubeLink": "https://www.youtube.com/watch?v=DqSW-Z-U7pA",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -96,6 +104,7 @@
     {
       "id": 9,
       "title": "Sati Nalaayini",
+      "titleKannada": "ಸತಿ ನಳಾಯಿನಿ",
       "year": "1957",
       "youtubeLink": "https://www.youtube.com/watch?v=hx41oNXzpZ8",
       "channel": "Zee Music South",
@@ -107,6 +116,7 @@
     {
       "id": 10,
       "title": "Rayara Sose",
+      "titleKannada": "ರಾಯರ ಸೊಸೆ",
       "year": "1957",
       "youtubeLink": "https://www.youtube.com/watch?v=uQ6yYd6RcCo",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -118,6 +128,7 @@
     {
       "id": 11,
       "title": "Bhookailasa",
+      "titleKannada": "ಭೂಕೈಲಾಸ",
       "year": "1958",
       "youtubeLink": "https://www.youtube.com/watch?v=HP-2XqUppEY",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -129,6 +140,7 @@
     {
       "id": 12,
       "title": "Shree Krishna Gaarudi",
+      "titleKannada": "ಶ್ರೀ ಕೃಷ್ಣ ಗಾರುಡಿ",
       "year": "1958",
       "youtubeLink": "https://www.youtube.com/watch?v=6LGSyYamryg",
       "channel": "Kannada Classic Cinema",
@@ -140,6 +152,7 @@
     {
       "id": 13,
       "title": "Anna Thangi",
+      "titleKannada": "ಅಣ್ಣ ತಂಗಿ",
       "year": "1958",
       "youtubeLink": "https://www.youtube.com/watch?v=x0QJdXawYXg",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -151,6 +164,7 @@
     {
       "id": 14,
       "title": "Jagajyothi Basveshwara",
+      "titleKannada": "ಜಗಜ್ಯೋತಿ ಬಸವೇಶ್ವರ",
       "year": "1959",
       "youtubeLink": "https://www.youtube.com/watch?v=V5eetSNq_6o",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -162,6 +176,7 @@
     {
       "id": 15,
       "title": "Dharma Vijaya",
+      "titleKannada": "ಧರ್ಮ ವಿಜಯ",
       "year": "1959",
       "youtubeLink": "https://www.youtube.com/watch?v=qY3gKdvERSU",
       "channel": "Superhit Kannada Movies HD",
@@ -173,6 +188,7 @@
     {
       "id": 16,
       "title": "Mahishasura Mardini",
+      "titleKannada": "ಮಹಿಷಾಸುರ ಮರ್ದಿನಿ",
       "year": "1959",
       "youtubeLink": "https://www.youtube.com/watch?v=y8tpZszkoUs",
       "channel": "Kannada Classic Cinema",
@@ -184,6 +200,7 @@
     {
       "id": 17,
       "title": "Abba Aa Hudugi",
+      "titleKannada": "ಅಬ್ಬಾ ಆ ಹುಡುಗೀ",
       "year": "1959",
       "youtubeLink": "https://www.youtube.com/watch?v=QCvG4StcO50",
       "channel": "Kannada Classic Cinema",
@@ -195,6 +212,7 @@
     {
       "id": 18,
       "title": "Ranadheera Kanteerava",
+      "titleKannada": "ರಣಧೀರ ಕಂಠೀರವ",
       "year": "1960",
       "youtubeLink": "https://www.youtube.com/watch?v=oFGc1fkvO0Q",
       "channel": "Kannada Classic Cinema",
@@ -206,6 +224,7 @@
     {
       "id": 19,
       "title": "Rani Honnamma",
+      "titleKannada": "ರಾಣಿ ಹೊನ್ನಮ್ಮ",
       "year": "1960",
       "youtubeLink": "https://www.youtube.com/watch?v=nvromT6Uig4",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -217,6 +236,7 @@
     {
       "id": 20,
       "title": "Aasha Sundari",
+      "titleKannada": "ಆಶಾ ಸುಂದರಿ",
       "year": "1960",
       "youtubeLink": "https://www.youtube.com/watch?v=XXkdAsTB2bg",
       "channel": "Kannada Classic Cinema",
@@ -228,6 +248,7 @@
     {
       "id": 21,
       "title": "Dashavathara",
+      "titleKannada": "ದಶಾವತಾರ",
       "year": "1960",
       "youtubeLink": "https://www.youtube.com/watch?v=TqldjsUgsE4",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -239,6 +260,7 @@
     {
       "id": 22,
       "title": "Bhakta Kanakadasa",
+      "titleKannada": "ಭಕ್ತ ಕನಕದಾಸರು",
       "year": "1960",
       "youtubeLink": "https://www.youtube.com/watch?v=Pu5jhI8Tigo",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -250,6 +272,7 @@
     {
       "id": 23,
       "title": "Sri Shaila Mahathme",
+      "titleKannada": "ಶ್ರೀ ಶೈಲ ಮಹಾತ್ಮೆ",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=UMo_BhCqxzk",
       "channel": "Shruthi Tracks Music",
@@ -261,6 +284,7 @@
     {
       "id": 24,
       "title": "Kittur Chennamma",
+      "titleKannada": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=oaFfYLTNKrQ",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -272,6 +296,7 @@
     {
       "id": 25,
       "title": "Kantheredu Nodu",
+      "titleKannada": "ಕಂಠೆರೆದು ನೋಡು",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=REvyUBmgazY",
       "channel": "Kannada Classic Cinema",
@@ -283,6 +308,7 @@
     {
       "id": 26,
       "title": "Kaiwara Mahathme",
+      "titleKannada": "ಕೈವಾರ ಮಹಾತ್ಮೆ",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=kSh8GIZRqOU",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -294,6 +320,7 @@
     {
       "id": 27,
       "title": "Bhakta Cheta",
+      "titleKannada": "ಭಕ್ತ ಚೇತಾ",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=l0YICacq3n0",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -305,6 +332,7 @@
     {
       "id": 28,
       "title": "Nagarjuna",
+      "titleKannada": "ನಾಗಾರ್ಜುನ",
       "year": "1961",
       "youtubeLink": "https://www.youtube.com/watch?v=6MUiyKqByZE",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -316,6 +344,7 @@
     {
       "id": 29,
       "title": "Gaali Gopura",
+      "titleKannada": "ಗಾಳಿ ಗೋಪುರ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=EdJBlcJy4A8",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -327,6 +356,7 @@
     {
       "id": 30,
       "title": "Bhoodaana",
+      "titleKannada": "ಭೂದಾನ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=ozHeoEnn08M",
       "channel": "Kannada Classic Cinema",
@@ -338,6 +368,7 @@
     {
       "id": 31,
       "title": "Swarna Gowri",
+      "titleKannada": "ಸ್ವರ್ಣ ಗೌರಿ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=pIXibFvekC0",
       "channel": "SRS Media Vision | Kannada Full Movies",
@@ -349,6 +380,7 @@
     {
       "id": 32,
       "title": "Devasundari",
+      "titleKannada": "ದೇವಸುಂದರಿ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=5qJi-ff_p5k",
       "channel": "TVNXT Kannada",
@@ -360,6 +392,7 @@
     {
       "id": 33,
       "title": "Karuneye Kutumbada Kannu",
+      "titleKannada": "ಕರುಣೆಯೇ ಕುಟುಂಬದ ಕಣ್ಣು",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=NUx5OhRiXw8",
       "channel": "Lotus Entertainment",
@@ -371,6 +404,7 @@
     {
       "id": 34,
       "title": "Mahathma Kabir",
+      "titleKannada": "ಮಹಾತ್ಮ ಕಬೀರ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=EBgtOHeIyTE",
       "channel": "SGV Digital - Kannada Full Movies",
@@ -382,6 +416,7 @@
     {
       "id": 35,
       "title": "Vidhivilasa",
+      "titleKannada": "ವಿಧಿವಿಲಾಸ",
       "year": "1962",
       "youtubeLink": "https://www.youtube.com/watch?v=2ZeD151idJw",
       "channel": "SGV Digital - Kannada Full Movies",
